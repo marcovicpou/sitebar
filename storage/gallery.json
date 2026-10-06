@@ -1,0 +1,50 @@
+[
+    {
+        "id": "gal_decoracao_arraia",
+        "titulo": "Decoração do bar",
+        "descricao": "Peça decorativa colorida que faz parte da identidade do ambiente.",
+        "imagem": "assets/uploads/bar-decoracao-arraia.jpeg",
+        "ativo": true,
+        "created_at": "2026-10-05T19:44:00-03:00"
+    },
+    {
+        "id": "gal_pitu_decoracao",
+        "titulo": "Decoração Pitú",
+        "descricao": "Garrafa decorativa Pitú presente no salão do bar.",
+        "imagem": "assets/uploads/bar-pitu-decoracao.jpeg",
+        "ativo": true,
+        "created_at": "2026-10-05T19:44:01-03:00"
+    },
+    {
+        "id": "gal_placa_proibido",
+        "titulo": "Detalhes do ambiente",
+        "descricao": "Placas e objetos que dão personalidade ao Bar Encontro dos Amigos.",
+        "imagem": "assets/uploads/bar-placa-proibido.jpeg",
+        "ativo": true,
+        "created_at": "2026-10-05T19:44:02-03:00"
+    },
+    {
+        "id": "gal_placa_pingas",
+        "titulo": "Frases do bar",
+        "descricao": "Uma das placas decorativas que fazem parte do clima descontraído do local.",
+        "imagem": "assets/uploads/bar-placa-pingas.jpeg",
+        "ativo": true,
+        "created_at": "2026-10-05T19:44:03-03:00"
+    },
+    {
+        "id": "gal_arte_parede",
+        "titulo": "Arte e decoração",
+        "descricao": "Quadros e peças artísticas que decoram as paredes do bar.",
+        "imagem": "assets/uploads/bar-arte-parede.jpeg",
+        "ativo": true,
+        "created_at": "2026-10-05T19:44:04-03:00"
+    },
+    {
+        "id": "gal_ambiente_principal",
+        "titulo": "O Bar Encontro dos Amigos",
+        "descricao": "Vista real do interior do bar e de parte da decoração do ambiente.",
+        "imagem": "assets/uploads/bar-ambiente-principal.jpeg",
+        "ativo": true,
+        "created_at": "2026-10-05T19:44:05-03:00"
+    }
+]

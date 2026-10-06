@@ -1,0 +1,24 @@
+[
+    {
+        "id": "evt_e368b99387",
+        "titulo": "Sexta entre Amigos",
+        "data": "2026-10-12",
+        "hora": "20:00",
+        "descricao": "Evento demonstrativo para mostrar como a agenda ficará no site.",
+        "imagem": "",
+        "destaque": true,
+        "ativo": true,
+        "created_at": "2026-10-05T20:51:00+00:00"
+    },
+    {
+        "id": "evt_1066726e71",
+        "titulo": "Happy Hour",
+        "data": "2026-10-19",
+        "hora": "18:00",
+        "descricao": "Exemplo fictício que pode ser editado ou apagado pelo painel.",
+        "imagem": "",
+        "destaque": false,
+        "ativo": true,
+        "created_at": "2026-10-05T20:51:00+00:00"
+    }
+]

@@ -1,0 +1,10 @@
+node_modules/
+/test-results/
+/dist/
+/storage/admin.json
+/storage/login_attempts.json
+/storage/*.lock
+/storage/.write-*
+/assets/uploads/upload_*
+.env
+*.log

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "menu_5c1c1673b8",
+        "titulo": "Porção Encontro dos Amigos",
+        "categoria": "Porções",
+        "descricao": "Porção especial para compartilhar.",
+        "preco": "49,90",
+        "imagem": "",
+        "ativo": true,
+        "created_at": "2026-10-05T20:51:00+00:00"
+    },
+    {
+        "id": "menu_0b18a3d7b9",
+        "titulo": "Drink Encontro",
+        "categoria": "Bebidas",
+        "descricao": "Drink assinatura da casa.",
+        "preco": "24,90",
+        "imagem": "",
+        "ativo": true,
+        "created_at": "2026-10-05T20:51:00+00:00"
+    }
+]

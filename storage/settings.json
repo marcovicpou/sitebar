@@ -1,0 +1,21 @@
+{
+    "nome": "Bar Encontro dos Amigos",
+    "seo_description": "Site do Bar Encontro dos Amigos. Cardápio, eventos, galeria e contato.",
+    "url": "",
+    "whatsapp": "+55 11 99999-0000",
+    "instagram": "https://instagram.com/barencontrodosamigos.demo",
+    "facebook": "https://facebook.com/barencontrodosamigos.demo",
+    "email": "contato@barencontrodosamigos.demo",
+    "telefone": "(11) 4000-1234",
+    "endereco": "Rua Exemplo, 123",
+    "cidade": "Mogi das Cruzes - SP",
+    "horario": "Ter a Dom • 17h às 00h",
+    "hero_kicker": "BAR ENCONTRO DOS AMIGOS",
+    "hero_line1": "SEU",
+    "hero_line2": "PONTO DE",
+    "hero_line3": "ENCONTRO",
+    "sobre_titulo": "BAR ENCONTRO DOS AMIGOS",
+    "sobre_texto": "O Bar Encontro dos Amigos nasceu para ser aquele lugar de boa comida, bebida gelada, música e resenha. Edite este texto pelo painel administrativo.",
+    "demo_note": "Conteúdo demonstrativo. Edite tudo pelo painel administrativo.",
+    "hero_image": "assets/uploads/bar-ambiente-principal.jpeg"
+}

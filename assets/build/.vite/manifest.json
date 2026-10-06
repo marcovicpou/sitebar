@@ -1,0 +1,84 @@
+{
+  "_shimmer-button-BbrqQR3B.js": {
+    "file": "assets/shimmer-button-BbrqQR3B.js",
+    "name": "shimmer-button",
+    "imports": [
+      "src/main.tsx"
+    ]
+  },
+  "node_modules/@fontsource-variable/dm-sans/files/dm-sans-latin-ext-wght-normal.woff2": {
+    "file": "assets/dm-sans-latin-ext-wght-normal-BOFOeGcA.woff2",
+    "src": "node_modules/@fontsource-variable/dm-sans/files/dm-sans-latin-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/dm-sans/files/dm-sans-latin-wght-normal.woff2": {
+    "file": "assets/dm-sans-latin-wght-normal-Xz1IZZA0.woff2",
+    "src": "node_modules/@fontsource-variable/dm-sans/files/dm-sans-latin-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/fraunces/files/fraunces-latin-ext-wght-italic.woff2": {
+    "file": "assets/fraunces-latin-ext-wght-italic-BfTTTDIL.woff2",
+    "src": "node_modules/@fontsource-variable/fraunces/files/fraunces-latin-ext-wght-italic.woff2"
+  },
+  "node_modules/@fontsource-variable/fraunces/files/fraunces-latin-ext-wght-normal.woff2": {
+    "file": "assets/fraunces-latin-ext-wght-normal-Ca2vKHc0.woff2",
+    "src": "node_modules/@fontsource-variable/fraunces/files/fraunces-latin-ext-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/fraunces/files/fraunces-latin-wght-italic.woff2": {
+    "file": "assets/fraunces-latin-wght-italic-Py8at3oI.woff2",
+    "src": "node_modules/@fontsource-variable/fraunces/files/fraunces-latin-wght-italic.woff2"
+  },
+  "node_modules/@fontsource-variable/fraunces/files/fraunces-latin-wght-normal.woff2": {
+    "file": "assets/fraunces-latin-wght-normal-ukD16Tqj.woff2",
+    "src": "node_modules/@fontsource-variable/fraunces/files/fraunces-latin-wght-normal.woff2"
+  },
+  "node_modules/@fontsource-variable/fraunces/files/fraunces-vietnamese-wght-italic.woff2": {
+    "file": "assets/fraunces-vietnamese-wght-italic-BicUS2cM.woff2",
+    "src": "node_modules/@fontsource-variable/fraunces/files/fraunces-vietnamese-wght-italic.woff2"
+  },
+  "node_modules/@fontsource-variable/fraunces/files/fraunces-vietnamese-wght-normal.woff2": {
+    "file": "assets/fraunces-vietnamese-wght-normal-CnvboYUG.woff2",
+    "src": "node_modules/@fontsource-variable/fraunces/files/fraunces-vietnamese-wght-normal.woff2"
+  },
+  "src/Admin.tsx": {
+    "file": "assets/Admin-CA1QCfmd.js",
+    "name": "Admin",
+    "src": "src/Admin.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.tsx",
+      "_shimmer-button-BbrqQR3B.js"
+    ]
+  },
+  "src/PublicSite.tsx": {
+    "file": "assets/PublicSite-BFxhTXKL.js",
+    "name": "PublicSite",
+    "src": "src/PublicSite.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/main.tsx",
+      "_shimmer-button-BbrqQR3B.js"
+    ]
+  },
+  "src/main.tsx": {
+    "file": "assets/main-DwQNO-ed.js",
+    "name": "main",
+    "src": "src/main.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/PublicSite.tsx",
+      "src/Admin.tsx"
+    ],
+    "css": [
+      "assets/main-DeuAefPZ.css"
+    ],
+    "assets": [
+      "assets/dm-sans-latin-ext-wght-normal-BOFOeGcA.woff2",
+      "assets/dm-sans-latin-wght-normal-Xz1IZZA0.woff2",
+      "assets/fraunces-vietnamese-wght-normal-CnvboYUG.woff2",
+      "assets/fraunces-latin-ext-wght-normal-Ca2vKHc0.woff2",
+      "assets/fraunces-latin-wght-normal-ukD16Tqj.woff2",
+      "assets/fraunces-vietnamese-wght-italic-BicUS2cM.woff2",
+      "assets/fraunces-latin-ext-wght-italic-BfTTTDIL.woff2",
+      "assets/fraunces-latin-wght-italic-Py8at3oI.woff2"
+    ]
+  }
+}
